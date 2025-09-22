@@ -21,7 +21,7 @@ git clone https://github.com/fearwmt/Ticket-System.git
 2. เปิด terminal แล้วรัน:
 
    ```bash
-   docker-compose up -d
+   docker run -d -p 6379:6379 redis
    ```
 3. เมื่อเสร็จแล้วสามารถเข้าใช้งานได้:
 
