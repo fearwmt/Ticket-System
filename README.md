@@ -1,8 +1,6 @@
 # 🎤 Ticket System
 
 โปรเจคตัวอย่างระบบ **Ticket System** (ระบบจัดการ Ticket)
-**Frontend (Next.js + TailwindCSS)** และ **Backend (Node.js + Express + PostgreSQL + Redis)**
-
 ---
 
 ## 🚀 วิธีติดตั้งและรัน
@@ -45,7 +43,7 @@ npm run dev
 ## ⚙️ Services ที่ใช้
 
 * **Frontend** → Next.js 13 + TailwindCSS
-* **Backend** → Node.js (Express)
+* **Backend** → Nestjs
 * **Database** → PostgreSQL
 * **Cache** → Redis
 * **Dev Tools** → Docker Compose
