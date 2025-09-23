@@ -38,16 +38,5 @@ npm install
 npm run dev
 ```
 
----
-
-## ⚙️ Services ที่ใช้
-
-* **Frontend** → Next.js 13 + TailwindCSS
-* **Backend** → Nestjs
-* **Database** → PostgreSQL
-* **Cache** → Redis
-* **Dev Tools** → Docker Compose
-
----
 
 
